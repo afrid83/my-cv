@@ -1,0 +1,11 @@
+h1, h2{
+    font-family: 'PT Serif', serif;
+
+}
+
+td{
+    padding: 20px;
+}
+.name{
+    margin-top:0;
+}
